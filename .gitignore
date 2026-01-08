@@ -12,3 +12,5 @@
 # crash logs
 
 crash.log
+
+.terraform.lock.hcl
